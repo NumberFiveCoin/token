@@ -1,0 +1,12 @@
+{
+  "name": "Number Five Coin",
+  "symbol": "N5",
+  "uri": "https://yourdomain.com/metadata.json",
+  "seller_fee_basis_points": 0,
+  "creators": [
+    {
+      "address": "AcPciKexk2Ro6mqvtcormcQToRJi8yYivUVR2PQeRKjV",
+      "share": 100
+    }
+  ]
+}
