@@ -1,7 +1,7 @@
 {
   "name": "Number Five Coin",
   "symbol": "N5",
-  "uri": "https://github.com/NumberFiveCoin/token/blob/main/metadata.json",
+  "uri": "https://raw.githubusercontent.com/NumberFiveCoin/token/refs/heads/main/metadata.json",
   "seller_fee_basis_points": 0,
   "creators": [
     {
